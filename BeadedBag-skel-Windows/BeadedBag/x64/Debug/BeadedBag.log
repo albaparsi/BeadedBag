@@ -1,0 +1,6 @@
+﻿  beadedbag.cpp
+C:\Users\nazan\OneDrive\Desktop\Lab CS\BeadedBag-skel-Windows\BeadedBag\beadedbag.cpp(19,37): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  item.cpp
+  main.cpp
+  Generating Code...
+  BeadedBag.vcxproj -> C:\Users\nazan\OneDrive\Desktop\Lab CS\BeadedBag-skel-Windows\BeadedBag\x64\Debug\BeadedBag.exe
